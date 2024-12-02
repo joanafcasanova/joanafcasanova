@@ -2,9 +2,6 @@
 ### Data Scientist/Analyst
 
 Professional data analyst in logistics sector, currently employed by Amazon. 
-  
-
-![https://github.com/sugus-labs](https://res.cloudinary.com/practicaldev/image/fetch/s--2pkgi1Qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/kynviiqxqx8n5a2bvg6u.gif)
 
 <!--
 https://ileriayo.github.io/markdown-badges/
