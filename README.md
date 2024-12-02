@@ -1,7 +1,7 @@
 # Hello, my name is Joana Casanova!
 ### Data Scientist/Analyst
 
-Professional data analyst in logistics sector, currently employed by Amazon. 
+Professional data analyst based in Barcelona, currently employed by Amazon (Europen Central Flow Team). Dealing with real-time logistics data to ensure good flow of several European fulfillment centers operations. 
 
 <!--
 https://ileriayo.github.io/markdown-badges/
